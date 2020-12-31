@@ -23,7 +23,7 @@ then follow the instructions printed out by the main script
 
 ## References
 
-- [@LindaLawton](https://github.com/LindaLawton) original [gist](https://gist.github.com/LindaLawton/cff75182aac5fa42930a09f58b63a309)
+- [@LindaLawton](https://github.com/LindaLawton) original [GoogleAuthenticationCurl.sh Gist](https://gist.github.com/LindaLawton/cff75182aac5fa42930a09f58b63a309)
 - Google APIs [dashboard](https://developers.google.com/oauthplayground/)
 - Google Sheets API [writing sample](https://developers.google.com/sheets/api/samples/writing)
-- Google Sheets API [values update reference](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values/update)
+- Google Sheets API [_values update_ "Try this API" reference](https://developers.google.com/sheets/api/reference/rest/v4/spreadsheets.values/update?apix=true) 
